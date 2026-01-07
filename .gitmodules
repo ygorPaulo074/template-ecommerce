@@ -1,0 +1,9 @@
+[submodule "ecommerce-backend"]
+	path = ecommerce-backend
+	url = https://github.com/ygorPaulo074/ecommerce-backend.git
+[submodule "ecommerce-frontend"]
+	path = ecommerce-frontend
+	url = https://github.com/ygorPaulo074/ecommerce-frontend.git
+[submodule "ecommerce-database"]
+	path = ecommerce-database
+	url = https://github.com/ygorPaulo074/ecommerce-database.git
